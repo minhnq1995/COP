@@ -1,0 +1,5 @@
+E:\cop\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\cop\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\cop\ClassLibrary1\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\cop\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\cop\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
